@@ -148,5 +148,5 @@ let DemoF1=Symbol();
 //     }
 // }
 // let q1=new Demo();
-// console.log(q1[DemoF1]())
+//console.log(q1[DemoF1]())
 
