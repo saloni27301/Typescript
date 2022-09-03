@@ -147,6 +147,6 @@ let DemoF1=Symbol();
 //         return "Some query"
 //     }
 // }
-// let q1=new Demo();
-//console.log(q1[DemoF1]())
+// let t1=new Demo();
+//console.log(t1[DemoF1]())
 
